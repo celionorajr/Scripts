@@ -27,5 +27,4 @@ Este repositório contém uma coleção de scripts em Python para diversas final
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Se você tiver um script útil que gostaria de compartilhar, sinta-se à vontade para enviar um pull request. Certifique-se de seguir as diretrizes de contribuição do projeto.
-
+Contribuições são bem-vindas! Se você tiver um script útil que gostaria de compartilhar, sinta-se à vontade para enviar um pull request.
