@@ -14,13 +14,13 @@ Este repositório contém uma coleção de scripts em Python para diversas final
 1. Clone este repositório para o seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/repositorio-scripts-python.git
+    git clone https://github.com/celionorajr/Scripts.git
     ```
 
 2. Navegue até o diretório do repositório:
 
     ```bash
-    cd repositorio-scripts-python
+    cd Scripts
     ```
 
 3. Execute os scripts conforme necessário. Certifique-se de ter os requisitos adequados instalados, caso existam.
