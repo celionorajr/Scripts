@@ -3,7 +3,7 @@
 Este documento serve como uma referência rápida para os comandos básicos no Linux. Ele é destinado a ajudar colegas de trabalho a realizar operações comuns e essenciais.
 
 1. Acessar um Diretório
-```sh
+```
 cd /caminho/do/diretorio
 ```
 
