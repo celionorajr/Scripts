@@ -1,6 +1,9 @@
 ```markdown
 # Documentação de Processos Básicos no Linux
-Este documento serve como uma referência rápida para os comandos básicos no Linux. Ele é destinado a ajudar colegas de trabalho a realizar operações comuns e essenciais.
+Criado por Célio Nora Júnior 
+Criado: 23/06/2024
+Última atualização: 23/06/2024
+Este documento serve como uma referência rápida para os comandos básicos no Linux. 
 
 1. Acessar um Diretório
 ```sh
